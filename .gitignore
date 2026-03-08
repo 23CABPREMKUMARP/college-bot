@@ -1,0 +1,14 @@
+# Dependencies
+node_modules/
+frontend/node_modules/
+
+# Production
+dist/
+frontend/dist/
+
+# Env
+.env
+frontend/.env
+
+# OS
+.DS_Store
